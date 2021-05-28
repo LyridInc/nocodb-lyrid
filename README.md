@@ -1,5 +1,8 @@
 # nocodb-lyrid
 
+This is Lyrid version of:
+https://github.com/nocodb/nocodb
+
 Make sure to set environment: NC_DB
 
 Set it to a connection string in on of this format:
